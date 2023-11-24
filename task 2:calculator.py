@@ -1,4 +1,4 @@
-#calculator
+#calculator app
 #task 2
 
 
